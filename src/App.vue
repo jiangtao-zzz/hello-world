@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    放松放松
+    放松放松 how it going
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
